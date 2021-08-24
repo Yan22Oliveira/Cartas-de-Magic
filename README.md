@@ -29,5 +29,5 @@ Nicolle trindade Dias
 
 Yan Ribeiro de Oliveira
 
-[Link do Projeto](https://github.com/Yan22Oliveira/Trabalho-Jogadores-UNO)
+[Link do Projeto](https://github.com/Yan22Oliveira/Cartas-de-Magic.git)
 
